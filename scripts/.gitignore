@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# ignore the data cleaning file
+Clean_consumption_data.ipynb
