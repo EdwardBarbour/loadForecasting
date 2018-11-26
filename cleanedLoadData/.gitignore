@@ -1,3 +1,6 @@
-consumption_df.pickle
-consumption_df_round3.pickle
+# Ignore everything
+*
 
+# But not these files...
+!.gitignore
+!consumption_round.zip
